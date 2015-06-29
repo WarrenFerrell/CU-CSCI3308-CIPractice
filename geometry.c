@@ -6,6 +6,7 @@
  *
  * This file contains a simple geomtery functions.
  *
+ * This is an extra line I added
  */
 
 #include <stdlib.h>
